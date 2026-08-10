@@ -1,0 +1,17 @@
+# Virtual environment
+venv_playwright/
+venv/
+.venv/
+
+# PyCharm & IDE config
+.idea/
+*.iml
+
+#Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Data & Logs
+*.log
+output/
