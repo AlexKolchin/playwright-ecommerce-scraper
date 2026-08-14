@@ -4,6 +4,7 @@ from playwright.async_api import async_playwright
 
 from config.logger_config import setup_logging
 from scrapers.catalog_scraper import CatalogScraper
+from utils.file_manager import save_products_to_json
 
 
 async def main():
@@ -18,24 +19,20 @@ async def main():
         context = await browser.new_context()
         page = await context.new_page()
 
-        logger.info("Starting extraction process...")
+        logger.info("Starting extraction process across all pages...")
 
-        html_content = await scraper.fetch_page(page, target_url)
+        # Scrape pages (set max_pages=5 for testing, or set to None for all pages
+        all_products = await scraper.scrape_all_pages(
+            page, target_url, max_pages=5
+        )
 
-        if html_content:
-            products = await scraper.parse(page)
-            logger.info(
-                f"Successfully parsed {len(products)} products from front page!"
-            )
+        logger.info(f"Total products scraped: {len(all_products)}")
 
-            print("\n--- Scraped Data Sample ---")
-            for item in products[:3]:
-                print(
-                    f"-> {item.title} | {item.price} {item.currency} | Rating: {item.rating} | URL: {item.url}"
-                )
+        # Save scraped dataset into JSON format
+        save_products_to_json(all_products, "data/products.json")
+        logger.info("Successfully saved products to 'data/products.json'")
 
         await browser.close()
 
-
 if __name__ == "__main__":
-    asyncio.run(main())
+        asyncio.run(main())

@@ -1,0 +1,902 @@
+[
+    {
+        "title": "A Light in the Attic",
+        "price": 51.77,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html",
+        "in_stock": true,
+        "rating": 3.0,
+        "scraped_at": "2026-08-14T18:33:23.333991Z"
+    },
+    {
+        "title": "Tipping the Velvet",
+        "price": 53.74,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html",
+        "in_stock": true,
+        "rating": 1.0,
+        "scraped_at": "2026-08-14T18:33:23.356021Z"
+    },
+    {
+        "title": "Soumission",
+        "price": 50.1,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/soumission_998/index.html",
+        "in_stock": true,
+        "rating": 1.0,
+        "scraped_at": "2026-08-14T18:33:23.376795Z"
+    },
+    {
+        "title": "Sharp Objects",
+        "price": 47.82,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html",
+        "in_stock": true,
+        "rating": 4.0,
+        "scraped_at": "2026-08-14T18:33:23.396840Z"
+    },
+    {
+        "title": "Sapiens: A Brief History of Humankind",
+        "price": 54.23,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html",
+        "in_stock": true,
+        "rating": 5.0,
+        "scraped_at": "2026-08-14T18:33:23.416419Z"
+    },
+    {
+        "title": "The Requiem Red",
+        "price": 22.65,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/the-requiem-red_995/index.html",
+        "in_stock": true,
+        "rating": 1.0,
+        "scraped_at": "2026-08-14T18:33:23.436392Z"
+    },
+    {
+        "title": "The Dirty Little Secrets of Getting Your Dream Job",
+        "price": 33.34,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html",
+        "in_stock": true,
+        "rating": 4.0,
+        "scraped_at": "2026-08-14T18:33:23.455826Z"
+    },
+    {
+        "title": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+        "price": 17.93,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html",
+        "in_stock": true,
+        "rating": 3.0,
+        "scraped_at": "2026-08-14T18:33:23.475119Z"
+    },
+    {
+        "title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+        "price": 22.6,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html",
+        "in_stock": true,
+        "rating": 4.0,
+        "scraped_at": "2026-08-14T18:33:23.494215Z"
+    },
+    {
+        "title": "The Black Maria",
+        "price": 52.15,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/the-black-maria_991/index.html",
+        "in_stock": true,
+        "rating": 1.0,
+        "scraped_at": "2026-08-14T18:33:23.513163Z"
+    },
+    {
+        "title": "Starving Hearts (Triangular Trade Trilogy, #1)",
+        "price": 13.99,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html",
+        "in_stock": true,
+        "rating": 2.0,
+        "scraped_at": "2026-08-14T18:33:23.532251Z"
+    },
+    {
+        "title": "Shakespeare's Sonnets",
+        "price": 20.66,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html",
+        "in_stock": true,
+        "rating": 4.0,
+        "scraped_at": "2026-08-14T18:33:23.551734Z"
+    },
+    {
+        "title": "Set Me Free",
+        "price": 17.46,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/set-me-free_988/index.html",
+        "in_stock": true,
+        "rating": 5.0,
+        "scraped_at": "2026-08-14T18:33:23.570875Z"
+    },
+    {
+        "title": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+        "price": 52.29,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html",
+        "in_stock": true,
+        "rating": 5.0,
+        "scraped_at": "2026-08-14T18:33:23.590176Z"
+    },
+    {
+        "title": "Rip it Up and Start Again",
+        "price": 35.02,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html",
+        "in_stock": true,
+        "rating": 5.0,
+        "scraped_at": "2026-08-14T18:33:23.609592Z"
+    },
+    {
+        "title": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+        "price": 57.25,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html",
+        "in_stock": true,
+        "rating": 3.0,
+        "scraped_at": "2026-08-14T18:33:23.628586Z"
+    },
+    {
+        "title": "Olio",
+        "price": 23.88,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/olio_984/index.html",
+        "in_stock": true,
+        "rating": 1.0,
+        "scraped_at": "2026-08-14T18:33:23.647448Z"
+    },
+    {
+        "title": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+        "price": 37.59,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html",
+        "in_stock": true,
+        "rating": 1.0,
+        "scraped_at": "2026-08-14T18:33:23.666306Z"
+    },
+    {
+        "title": "Libertarianism for Beginners",
+        "price": 51.33,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html",
+        "in_stock": true,
+        "rating": 2.0,
+        "scraped_at": "2026-08-14T18:33:23.685063Z"
+    },
+    {
+        "title": "It's Only the Himalayas",
+        "price": 45.17,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html",
+        "in_stock": true,
+        "rating": 2.0,
+        "scraped_at": "2026-08-14T18:33:23.703727Z"
+    },
+    {
+        "title": "In Her Wake",
+        "price": 12.84,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/in-her-wake_980/index.html",
+        "in_stock": true,
+        "rating": 1.0,
+        "scraped_at": "2026-08-14T18:33:24.791364Z"
+    },
+    {
+        "title": "How Music Works",
+        "price": 37.32,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/how-music-works_979/index.html",
+        "in_stock": true,
+        "rating": 2.0,
+        "scraped_at": "2026-08-14T18:33:24.811035Z"
+    },
+    {
+        "title": "Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",
+        "price": 30.52,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html",
+        "in_stock": true,
+        "rating": 3.0,
+        "scraped_at": "2026-08-14T18:33:24.830075Z"
+    },
+    {
+        "title": "Chase Me (Paris Nights #2)",
+        "price": 25.27,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html",
+        "in_stock": true,
+        "rating": 5.0,
+        "scraped_at": "2026-08-14T18:33:24.848414Z"
+    },
+    {
+        "title": "Black Dust",
+        "price": 34.53,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/black-dust_976/index.html",
+        "in_stock": true,
+        "rating": 5.0,
+        "scraped_at": "2026-08-14T18:33:24.867155Z"
+    },
+    {
+        "title": "Birdsong: A Story in Pictures",
+        "price": 54.64,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html",
+        "in_stock": true,
+        "rating": 3.0,
+        "scraped_at": "2026-08-14T18:33:24.886102Z"
+    },
+    {
+        "title": "America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana",
+        "price": 22.5,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html",
+        "in_stock": true,
+        "rating": 3.0,
+        "scraped_at": "2026-08-14T18:33:24.904902Z"
+    },
+    {
+        "title": "Aladdin and His Wonderful Lamp",
+        "price": 53.13,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/aladdin-and-his-wonderful-lamp_973/index.html",
+        "in_stock": true,
+        "rating": 3.0,
+        "scraped_at": "2026-08-14T18:33:24.923909Z"
+    },
+    {
+        "title": "Worlds Elsewhere: Journeys Around Shakespeare’s Globe",
+        "price": 40.3,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html",
+        "in_stock": true,
+        "rating": 5.0,
+        "scraped_at": "2026-08-14T18:33:24.943911Z"
+    },
+    {
+        "title": "Wall and Piece",
+        "price": 44.18,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/wall-and-piece_971/index.html",
+        "in_stock": true,
+        "rating": 4.0,
+        "scraped_at": "2026-08-14T18:33:24.964466Z"
+    },
+    {
+        "title": "The Four Agreements: A Practical Guide to Personal Freedom",
+        "price": 17.66,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html",
+        "in_stock": true,
+        "rating": 5.0,
+        "scraped_at": "2026-08-14T18:33:24.985705Z"
+    },
+    {
+        "title": "The Five Love Languages: How to Express Heartfelt Commitment to Your Mate",
+        "price": 31.05,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html",
+        "in_stock": true,
+        "rating": 3.0,
+        "scraped_at": "2026-08-14T18:33:25.006032Z"
+    },
+    {
+        "title": "The Elephant Tree",
+        "price": 23.82,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/the-elephant-tree_968/index.html",
+        "in_stock": true,
+        "rating": 5.0,
+        "scraped_at": "2026-08-14T18:33:25.026669Z"
+    },
+    {
+        "title": "The Bear and the Piano",
+        "price": 36.89,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/the-bear-and-the-piano_967/index.html",
+        "in_stock": true,
+        "rating": 1.0,
+        "scraped_at": "2026-08-14T18:33:25.047601Z"
+    },
+    {
+        "title": "Sophie's World",
+        "price": 15.94,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/sophies-world_966/index.html",
+        "in_stock": true,
+        "rating": 5.0,
+        "scraped_at": "2026-08-14T18:33:25.067130Z"
+    },
+    {
+        "title": "Penny Maybe",
+        "price": 33.29,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/penny-maybe_965/index.html",
+        "in_stock": true,
+        "rating": 3.0,
+        "scraped_at": "2026-08-14T18:33:25.086226Z"
+    },
+    {
+        "title": "Maude (1883-1993):She Grew Up with the country",
+        "price": 18.02,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/maude-1883-1993she-grew-up-with-the-country_964/index.html",
+        "in_stock": true,
+        "rating": 2.0,
+        "scraped_at": "2026-08-14T18:33:25.105276Z"
+    },
+    {
+        "title": "In a Dark, Dark Wood",
+        "price": 19.63,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html",
+        "in_stock": true,
+        "rating": 1.0,
+        "scraped_at": "2026-08-14T18:33:25.124089Z"
+    },
+    {
+        "title": "Behind Closed Doors",
+        "price": 52.22,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/behind-closed-doors_962/index.html",
+        "in_stock": true,
+        "rating": 4.0,
+        "scraped_at": "2026-08-14T18:33:25.147461Z"
+    },
+    {
+        "title": "You can't bury them all: Poems",
+        "price": 33.63,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/you-cant-bury-them-all-poems_961/index.html",
+        "in_stock": true,
+        "rating": 2.0,
+        "scraped_at": "2026-08-14T18:33:25.166095Z"
+    },
+    {
+        "title": "Slow States of Collapse: Poems",
+        "price": 57.31,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/slow-states-of-collapse-poems_960/index.html",
+        "in_stock": true,
+        "rating": 3.0,
+        "scraped_at": "2026-08-14T18:33:26.252184Z"
+    },
+    {
+        "title": "Reasons to Stay Alive",
+        "price": 26.41,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/reasons-to-stay-alive_959/index.html",
+        "in_stock": true,
+        "rating": 2.0,
+        "scraped_at": "2026-08-14T18:33:26.273118Z"
+    },
+    {
+        "title": "Private Paris (Private #10)",
+        "price": 47.61,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/private-paris-private-10_958/index.html",
+        "in_stock": true,
+        "rating": 5.0,
+        "scraped_at": "2026-08-14T18:33:26.293540Z"
+    },
+    {
+        "title": "#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.",
+        "price": 23.11,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/higherselfie-wake-up-your-life-free-your-soul-find-your-tribe_957/index.html",
+        "in_stock": true,
+        "rating": 5.0,
+        "scraped_at": "2026-08-14T18:33:26.313676Z"
+    },
+    {
+        "title": "Without Borders (Wanderlove #1)",
+        "price": 45.07,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/without-borders-wanderlove-1_956/index.html",
+        "in_stock": true,
+        "rating": 2.0,
+        "scraped_at": "2026-08-14T18:33:26.333094Z"
+    },
+    {
+        "title": "When We Collided",
+        "price": 31.77,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/when-we-collided_955/index.html",
+        "in_stock": true,
+        "rating": 1.0,
+        "scraped_at": "2026-08-14T18:33:26.352379Z"
+    },
+    {
+        "title": "We Love You, Charlie Freeman",
+        "price": 50.27,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/we-love-you-charlie-freeman_954/index.html",
+        "in_stock": true,
+        "rating": 5.0,
+        "scraped_at": "2026-08-14T18:33:26.372255Z"
+    },
+    {
+        "title": "Untitled Collection: Sabbath Poems 2014",
+        "price": 14.27,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/untitled-collection-sabbath-poems-2014_953/index.html",
+        "in_stock": true,
+        "rating": 4.0,
+        "scraped_at": "2026-08-14T18:33:26.393522Z"
+    },
+    {
+        "title": "Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",
+        "price": 44.18,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/unseen-city-the-majesty-of-pigeons-the-discreet-charm-of-snails-other-wonders-of-the-urban-wilderness_952/index.html",
+        "in_stock": true,
+        "rating": 4.0,
+        "scraped_at": "2026-08-14T18:33:26.414845Z"
+    },
+    {
+        "title": "Unicorn Tracks",
+        "price": 18.78,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/unicorn-tracks_951/index.html",
+        "in_stock": true,
+        "rating": 3.0,
+        "scraped_at": "2026-08-14T18:33:26.435009Z"
+    },
+    {
+        "title": "Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",
+        "price": 25.52,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/unbound-how-eight-technologies-made-us-human-transformed-society-and-brought-our-world-to-the-brink_950/index.html",
+        "in_stock": true,
+        "rating": 1.0,
+        "scraped_at": "2026-08-14T18:33:26.455495Z"
+    },
+    {
+        "title": "Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)",
+        "price": 16.28,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/tsubasa-world-chronicle-2-tsubasa-world-chronicle-2_949/index.html",
+        "in_stock": true,
+        "rating": 1.0,
+        "scraped_at": "2026-08-14T18:33:26.475760Z"
+    },
+    {
+        "title": "Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity",
+        "price": 31.12,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/throwing-rocks-at-the-google-bus-how-growth-became-the-enemy-of-prosperity_948/index.html",
+        "in_stock": true,
+        "rating": 3.0,
+        "scraped_at": "2026-08-14T18:33:26.495091Z"
+    },
+    {
+        "title": "This One Summer",
+        "price": 19.49,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/this-one-summer_947/index.html",
+        "in_stock": true,
+        "rating": 4.0,
+        "scraped_at": "2026-08-14T18:33:26.513591Z"
+    },
+    {
+        "title": "Thirst",
+        "price": 17.27,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/thirst_946/index.html",
+        "in_stock": true,
+        "rating": 5.0,
+        "scraped_at": "2026-08-14T18:33:26.532227Z"
+    },
+    {
+        "title": "The Torch Is Passed: A Harding Family Story",
+        "price": 19.09,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/the-torch-is-passed-a-harding-family-story_945/index.html",
+        "in_stock": true,
+        "rating": 1.0,
+        "scraped_at": "2026-08-14T18:33:26.550492Z"
+    },
+    {
+        "title": "The Secret of Dreadwillow Carse",
+        "price": 56.13,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/the-secret-of-dreadwillow-carse_944/index.html",
+        "in_stock": true,
+        "rating": 1.0,
+        "scraped_at": "2026-08-14T18:33:26.569043Z"
+    },
+    {
+        "title": "The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",
+        "price": 56.41,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/the-pioneer-woman-cooks-dinnertime-comfort-classics-freezer-food-16-minute-meals-and-other-delicious-ways-to-solve-supper_943/index.html",
+        "in_stock": true,
+        "rating": 1.0,
+        "scraped_at": "2026-08-14T18:33:26.587734Z"
+    },
+    {
+        "title": "The Past Never Ends",
+        "price": 56.5,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/the-past-never-ends_942/index.html",
+        "in_stock": true,
+        "rating": 4.0,
+        "scraped_at": "2026-08-14T18:33:26.606073Z"
+    },
+    {
+        "title": "The Natural History of Us (The Fine Art of Pretending #2)",
+        "price": 45.22,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/the-natural-history-of-us-the-fine-art-of-pretending-2_941/index.html",
+        "in_stock": true,
+        "rating": 3.0,
+        "scraped_at": "2026-08-14T18:33:26.625143Z"
+    },
+    {
+        "title": "The Nameless City (The Nameless City #1)",
+        "price": 38.16,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/the-nameless-city-the-nameless-city-1_940/index.html",
+        "in_stock": true,
+        "rating": 4.0,
+        "scraped_at": "2026-08-14T18:33:27.704543Z"
+    },
+    {
+        "title": "The Murder That Never Was (Forensic Instincts #5)",
+        "price": 54.11,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/the-murder-that-never-was-forensic-instincts-5_939/index.html",
+        "in_stock": true,
+        "rating": 3.0,
+        "scraped_at": "2026-08-14T18:33:27.723623Z"
+    },
+    {
+        "title": "The Most Perfect Thing: Inside (and Outside) a Bird's Egg",
+        "price": 42.96,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/the-most-perfect-thing-inside-and-outside-a-birds-egg_938/index.html",
+        "in_stock": true,
+        "rating": 4.0,
+        "scraped_at": "2026-08-14T18:33:27.743392Z"
+    },
+    {
+        "title": "The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",
+        "price": 23.89,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/the-mindfulness-and-acceptance-workbook-for-anxiety-a-guide-to-breaking-free-from-anxiety-phobias-and-worry-using-acceptance-and-commitment-therapy_937/index.html",
+        "in_stock": true,
+        "rating": 4.0,
+        "scraped_at": "2026-08-14T18:33:27.762206Z"
+    },
+    {
+        "title": "The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing",
+        "price": 16.77,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/the-life-changing-magic-of-tidying-up-the-japanese-art-of-decluttering-and-organizing_936/index.html",
+        "in_stock": true,
+        "rating": 3.0,
+        "scraped_at": "2026-08-14T18:33:27.780667Z"
+    },
+    {
+        "title": "The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",
+        "price": 20.59,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/the-inefficiency-assassin-time-management-tactics-for-working-smarter-not-longer_935/index.html",
+        "in_stock": true,
+        "rating": 5.0,
+        "scraped_at": "2026-08-14T18:33:27.799115Z"
+    },
+    {
+        "title": "The Gutsy Girl: Escapades for Your Life of Epic Adventure",
+        "price": 37.13,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/the-gutsy-girl-escapades-for-your-life-of-epic-adventure_934/index.html",
+        "in_stock": true,
+        "rating": 1.0,
+        "scraped_at": "2026-08-14T18:33:27.817534Z"
+    },
+    {
+        "title": "The Electric Pencil: Drawings from Inside State Hospital No. 3",
+        "price": 56.06,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/the-electric-pencil-drawings-from-inside-state-hospital-no-3_933/index.html",
+        "in_stock": true,
+        "rating": 1.0,
+        "scraped_at": "2026-08-14T18:33:27.835785Z"
+    },
+    {
+        "title": "The Death of Humanity: and the Case for Life",
+        "price": 58.11,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/the-death-of-humanity-and-the-case-for-life_932/index.html",
+        "in_stock": true,
+        "rating": 4.0,
+        "scraped_at": "2026-08-14T18:33:27.853951Z"
+    },
+    {
+        "title": "The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",
+        "price": 49.05,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/the-bulletproof-diet-lose-up-to-a-pound-a-day-reclaim-energy-and-focus-upgrade-your-life_931/index.html",
+        "in_stock": true,
+        "rating": 3.0,
+        "scraped_at": "2026-08-14T18:33:27.872337Z"
+    },
+    {
+        "title": "The Art Forger",
+        "price": 40.76,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/the-art-forger_930/index.html",
+        "in_stock": true,
+        "rating": 3.0,
+        "scraped_at": "2026-08-14T18:33:27.890539Z"
+    },
+    {
+        "title": "The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind",
+        "price": 19.73,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/the-age-of-genius-the-seventeenth-century-and-the-birth-of-the-modern-mind_929/index.html",
+        "in_stock": true,
+        "rating": 1.0,
+        "scraped_at": "2026-08-14T18:33:27.908851Z"
+    },
+    {
+        "title": "The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution",
+        "price": 32.24,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/the-activists-tao-te-ching-ancient-advice-for-a-modern-revolution_928/index.html",
+        "in_stock": true,
+        "rating": 5.0,
+        "scraped_at": "2026-08-14T18:33:27.927548Z"
+    },
+    {
+        "title": "Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up",
+        "price": 41.83,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/spark-joy-an-illustrated-master-class-on-the-art-of-organizing-and-tidying-up_927/index.html",
+        "in_stock": true,
+        "rating": 4.0,
+        "scraped_at": "2026-08-14T18:33:27.945499Z"
+    },
+    {
+        "title": "Soul Reader",
+        "price": 39.58,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/soul-reader_926/index.html",
+        "in_stock": true,
+        "rating": 2.0,
+        "scraped_at": "2026-08-14T18:33:27.964095Z"
+    },
+    {
+        "title": "Security",
+        "price": 39.25,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/security_925/index.html",
+        "in_stock": true,
+        "rating": 2.0,
+        "scraped_at": "2026-08-14T18:33:27.982101Z"
+    },
+    {
+        "title": "Saga, Volume 6 (Saga (Collected Editions) #6)",
+        "price": 25.02,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/saga-volume-6-saga-collected-editions-6_924/index.html",
+        "in_stock": true,
+        "rating": 3.0,
+        "scraped_at": "2026-08-14T18:33:28.000118Z"
+    },
+    {
+        "title": "Saga, Volume 5 (Saga (Collected Editions) #5)",
+        "price": 51.04,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/saga-volume-5-saga-collected-editions-5_923/index.html",
+        "in_stock": true,
+        "rating": 2.0,
+        "scraped_at": "2026-08-14T18:33:28.018444Z"
+    },
+    {
+        "title": "Reskilling America: Learning to Labor in the Twenty-First Century",
+        "price": 19.83,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/reskilling-america-learning-to-labor-in-the-twenty-first-century_922/index.html",
+        "in_stock": true,
+        "rating": 2.0,
+        "scraped_at": "2026-08-14T18:33:28.036794Z"
+    },
+    {
+        "title": "Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",
+        "price": 50.4,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/rat-queens-vol-3-demons-rat-queens-collected-editions-11-15_921/index.html",
+        "in_stock": true,
+        "rating": 3.0,
+        "scraped_at": "2026-08-14T18:33:28.055444Z"
+    },
+    {
+        "title": "Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",
+        "price": 13.61,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/princess-jellyfish-2-in-1-omnibus-vol-01-princess-jellyfish-2-in-1-omnibus-1_920/index.html",
+        "in_stock": true,
+        "rating": 5.0,
+        "scraped_at": "2026-08-14T18:33:29.132594Z"
+    },
+    {
+        "title": "Princess Between Worlds (Wide-Awake Princess #5)",
+        "price": 13.34,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/princess-between-worlds-wide-awake-princess-5_919/index.html",
+        "in_stock": true,
+        "rating": 5.0,
+        "scraped_at": "2026-08-14T18:33:29.153262Z"
+    },
+    {
+        "title": "Pop Gun War, Volume 1: Gift",
+        "price": 18.97,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/pop-gun-war-volume-1-gift_918/index.html",
+        "in_stock": true,
+        "rating": 1.0,
+        "scraped_at": "2026-08-14T18:33:29.172165Z"
+    },
+    {
+        "title": "Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",
+        "price": 36.28,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/political-suicide-missteps-peccadilloes-bad-calls-backroom-hijinx-sordid-pasts-rotten-breaks-and-just-plain-dumb-mistakes-in-the-annals-of-american-politics_917/index.html",
+        "in_stock": true,
+        "rating": 2.0,
+        "scraped_at": "2026-08-14T18:33:29.190769Z"
+    },
+    {
+        "title": "Patience",
+        "price": 10.16,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/patience_916/index.html",
+        "in_stock": true,
+        "rating": 3.0,
+        "scraped_at": "2026-08-14T18:33:29.209256Z"
+    },
+    {
+        "title": "Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",
+        "price": 15.44,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/outcast-vol-1-a-darkness-surrounds-him-outcast-1_915/index.html",
+        "in_stock": true,
+        "rating": 4.0,
+        "scraped_at": "2026-08-14T18:33:29.227426Z"
+    },
+    {
+        "title": "orange: The Complete Collection 1 (orange: The Complete Collection #1)",
+        "price": 48.41,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/orange-the-complete-collection-1-orange-the-complete-collection-1_914/index.html",
+        "in_stock": true,
+        "rating": 1.0,
+        "scraped_at": "2026-08-14T18:33:29.245496Z"
+    },
+    {
+        "title": "Online Marketing for Busy Authors: A Step-By-Step Guide",
+        "price": 46.35,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/online-marketing-for-busy-authors-a-step-by-step-guide_913/index.html",
+        "in_stock": true,
+        "rating": 1.0,
+        "scraped_at": "2026-08-14T18:33:29.263880Z"
+    },
+    {
+        "title": "On a Midnight Clear",
+        "price": 14.07,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/on-a-midnight-clear_912/index.html",
+        "in_stock": true,
+        "rating": 3.0,
+        "scraped_at": "2026-08-14T18:33:29.282132Z"
+    },
+    {
+        "title": "Obsidian (Lux #1)",
+        "price": 14.86,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/obsidian-lux-1_911/index.html",
+        "in_stock": true,
+        "rating": 2.0,
+        "scraped_at": "2026-08-14T18:33:29.300468Z"
+    },
+    {
+        "title": "My Paris Kitchen: Recipes and Stories",
+        "price": 33.37,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/my-paris-kitchen-recipes-and-stories_910/index.html",
+        "in_stock": true,
+        "rating": 2.0,
+        "scraped_at": "2026-08-14T18:33:29.318575Z"
+    },
+    {
+        "title": "Masks and Shadows",
+        "price": 56.4,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/masks-and-shadows_909/index.html",
+        "in_stock": true,
+        "rating": 2.0,
+        "scraped_at": "2026-08-14T18:33:29.337201Z"
+    },
+    {
+        "title": "Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",
+        "price": 14.02,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/mama-tried-traditional-italian-cooking-for-the-screwed-crude-vegan-and-tattooed_908/index.html",
+        "in_stock": true,
+        "rating": 4.0,
+        "scraped_at": "2026-08-14T18:33:29.355266Z"
+    },
+    {
+        "title": "Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",
+        "price": 46.91,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/lumberjanes-vol-2-friendship-to-the-max-lumberjanes-5-8_907/index.html",
+        "in_stock": true,
+        "rating": 2.0,
+        "scraped_at": "2026-08-14T18:33:29.373833Z"
+    },
+    {
+        "title": "Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",
+        "price": 45.61,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/lumberjanes-vol-1-beware-the-kitten-holy-lumberjanes-1-4_906/index.html",
+        "in_stock": true,
+        "rating": 3.0,
+        "scraped_at": "2026-08-14T18:33:29.392573Z"
+    },
+    {
+        "title": "Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12)",
+        "price": 19.92,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/lumberjanes-vol-3-a-terrible-plan-lumberjanes-9-12_905/index.html",
+        "in_stock": true,
+        "rating": 2.0,
+        "scraped_at": "2026-08-14T18:33:29.410664Z"
+    },
+    {
+        "title": "Layered: Baking, Building, and Styling Spectacular Cakes",
+        "price": 40.11,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/layered-baking-building-and-styling-spectacular-cakes_904/index.html",
+        "in_stock": true,
+        "rating": 1.0,
+        "scraped_at": "2026-08-14T18:33:29.428769Z"
+    },
+    {
+        "title": "Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners)",
+        "price": 53.9,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/judo-seven-steps-to-black-belt-an-introductory-guide-for-beginners_903/index.html",
+        "in_stock": true,
+        "rating": 2.0,
+        "scraped_at": "2026-08-14T18:33:29.446968Z"
+    },
+    {
+        "title": "Join",
+        "price": 35.67,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/join_902/index.html",
+        "in_stock": true,
+        "rating": 5.0,
+        "scraped_at": "2026-08-14T18:33:29.465201Z"
+    },
+    {
+        "title": "In the Country We Love: My Family Divided",
+        "price": 22.0,
+        "currency": "GBP",
+        "url": "https://books.toscrape.com/catalogue/in-the-country-we-love-my-family-divided_901/index.html",
+        "in_stock": true,
+        "rating": 4.0,
+        "scraped_at": "2026-08-14T18:33:29.483593Z"
+    }
+]

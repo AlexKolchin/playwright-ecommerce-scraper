@@ -33,7 +33,7 @@ class CatalogScraper(BaseScraper):
                 relative_url = (
                     await title_anchor.get_attribute("href") if title_anchor else ""
                 )
-                full_url = urljoin(self.base_url, relative_url)
+                full_url = urljoin(page.url, relative_url)
 
                 # 2. Price
                 price_element = await element.query_selector("p.price_color")
@@ -79,3 +79,43 @@ class CatalogScraper(BaseScraper):
                 self.logger.exception(f"Unexpected error parsing product card: {exc}")
 
         return scraped_products
+
+    async def scrape_all_pages(
+            self, page: Page, start_url: str, max_pages: int = None
+    ) -> List[ProductSchema]:
+        """Navigates through all pagination pages and collects all products."""
+        all_products: List[ProductSchema] = []
+        current_url = start_url
+        page_count = 0
+
+        while current_url:
+            page_count += 1
+            if max_pages and page_count > max_pages:
+                self.logger.info(
+                    f"Reached max pages limit ({max_pages}). Stopping scraper."
+                )
+                break
+
+            self.logger.info(f"Scraping Page {page_count}: {current_url}")
+            html = await self.fetch_page(page, current_url)
+
+            if not html:
+                self.logger.error(f"Failed to fetch content from {current_url}")
+                break
+
+            products = await self.parse(page)
+            all_products.extend(products)
+            self.logger.info(
+                f"Page {page_count} scraped: {len(products)} products found."
+            )
+
+            # Шукаємо кнопку 'Next' для пагінації
+            next_button = await page.query_selector("li.next a")
+            if next_button:
+                next_relative_url = await next_button.get_attribute("href")
+                current_url = urljoin(current_url, next_relative_url)
+            else:
+                self.logger.info("No 'Next' button found. End of catalog.")
+                current_url = None
+
+        return all_products
