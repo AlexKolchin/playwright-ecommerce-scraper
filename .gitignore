@@ -19,3 +19,7 @@ output/
 logs/
 data/
 *.json
+
+dockerignore
+.git/
+.gitignore
