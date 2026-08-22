@@ -108,3 +108,12 @@ If you have make installed, you can use these shortcuts:
 - make run — Execute the main scraping script.
 - make test — Execute the full test suite via Pytest.
 - make clean — Remove generated cache, log files, and scraped JSON data.
+
+---
+
+## ☁️ Production & Cloud Readiness
+
+The project is structured to easily fit into enterprise cloud infrastructure or standalone deployments:
+* **Cloud Storage:** Native support for exporting validated datasets directly to **AWS S3** or GCP Buckets via `boto3`.
+* **Scheduled Runs:** Fully optimized for serverless/containerized orchestration using **AWS EventBridge (Cron) + ECS Fargate** or **AWS Lambda**.
+* **Integrations:** Extensible architecture for automated Slack/Telegram alerts on pipeline failure or schema mismatches.
