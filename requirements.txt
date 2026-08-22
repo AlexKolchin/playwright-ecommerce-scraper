@@ -9,5 +9,6 @@ pydantic_core==2.46.4
 pyee==13.0.1
 Pygments==2.20.0
 pytest==9.1.1
+pytest-asyncio==1.4.0
 typing-inspection==0.4.3
 typing_extensions==4.16.0

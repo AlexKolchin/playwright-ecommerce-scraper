@@ -11,8 +11,11 @@ venv/
 __pycache__/
 *.pyc
 .pytest_cache/
+.python_version
 
 # Data & Logs
 *.log
 output/
 logs/
+data/
+*.json
