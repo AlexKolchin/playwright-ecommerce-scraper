@@ -49,6 +49,7 @@ Clone the repository and set up your virtual environment along with Playwright d
 
 Using Makefile (Recommended):
   make setup
+  source .venv/bin/activate  
 
 Or manually:
   python3 -m venv venv_playwright
